@@ -12,7 +12,7 @@
 
 ⚡ Fun fact: I survive on a ₹150/day diet plan and still make progress 😅
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Languages: Python, C++, Java, R
 
@@ -22,7 +22,7 @@ Data/ML: Pandas, NumPy, Scikit-learn, Power BI
 
 Other: Git, GitHub, VS Code
 
-📂 Projects
+📂 **Projects**
 
 🔹 VR/AR in EdTech Research
  – Surveying parents & children for insights
@@ -30,21 +30,15 @@ Other: Git, GitHub, VS Code
 🔹 Data Visualization Labs
  – R & Power BI dashboards
 
-🔹 Cyber Security Notes
- – 23ITE107 Q&A repo
-
 (More projects coming soon 🚀)
 
-📊 GitHub Stats
+📊 **GitHub Stats**
 
 
 
 
-📫 Connect with Me
+📫 **Connect with Me**
 
-📧 Email: [your-email@example.com
-]
+📧 **Email**: swarupkarthik2005@gmail.com
 
-💼 LinkedIn: linkedin.com/in/yourprofile
-
-🐦 Twitter: twitter.com/yourhandle
+💼 **LinkedIn**: https://www.linkedin.com/in/swarup-karthik-sk/
