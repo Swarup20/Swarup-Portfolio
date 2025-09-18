@@ -3,12 +3,9 @@
 🎓 3rd-year Engineering Student (AI & Data Science) | 💻 Tech Enthusiast | 🏋️ Fitness Learner  
 📍 SNS College of Engineering  
 
----
-
-## 🔗 Connect with Me
-[![Email](https://img.shields.io/badge/Email-swarupkarthik2005%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:swarupkarthik2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swarup%20Karthik-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swarup-karthik-sk/)
-[![GitHub](https://img.shields.io/badge/GitHub-swarupkarthik2005-black?style=for-the-badge&logo=github)](https://github.com/swarupkarthik2005)
+📧 Email: swarupkarthik2005@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/swarup-karthik-sk/)  
+🐙 [GitHub](https://github.com/swarupkarthik2005)  
 
 ---
 
@@ -25,25 +22,12 @@ SNS College of Engineering | *Year of Graduation: [Update]*
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming & Databases  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### Data / Visualization  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-
-### UI/UX & Tools  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+## 🛠️ Technical Skills
+- **Programming Languages**: Python, C, SQL  
+- **Databases**: MySQL, MongoDB  
+- **Data/ML Tools**: Power BI, R  
+- **UI/UX Design**: Figma, Flutter  
+- **Developer Tools**: Git, GitHub, VS Code  
 
 ---
 
