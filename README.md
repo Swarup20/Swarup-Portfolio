@@ -4,21 +4,18 @@
 
 🚀 **About Me**
 
-🌱 Currently learning DSA, Machine Learning, and Cyber Security
+🌱 Currently learning Python, DSA and Software Testing
 
 🎯 Goal: Become stronger (both in coding & fitness 💪) within a year
 
 🏠 Living in a hostel, balancing college + projects + gym life
 
-⚡ Fun fact: I survive on a ₹150/day diet plan and still make progress 😅
 
 🛠️ **Tech Stack**
 
-Languages: Python, C++, Java, R
+Languages: Python
 
-Web: HTML, CSS, JavaScript
-
-Data/ML: Pandas, NumPy, Scikit-learn, Power BI
+Data/ML: Power BI
 
 Other: Git, GitHub, VS Code
 
@@ -31,9 +28,6 @@ Other: Git, GitHub, VS Code
  – R & Power BI dashboards
 
 (More projects coming soon 🚀)
-
-📊 **GitHub Stats**
-
 
 
 
